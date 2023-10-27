@@ -6,3 +6,5 @@ changed in mytestbranch3
 changed in master branch
 
 change a
+
+change b
