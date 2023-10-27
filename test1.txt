@@ -4,3 +4,5 @@ changed in mytestbranch2
 changed in mytestbranch3
 
 changed in master branch
+
+change a
