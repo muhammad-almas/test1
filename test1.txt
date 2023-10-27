@@ -1,5 +1,6 @@
 changed after first commit
 changed in mytestbranch
 changed in mytestbranch2
+changed in mytestbranch3
 
 changed in master branch
