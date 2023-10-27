@@ -8,3 +8,5 @@ changed in master branch
 change a
 
 change b
+
+change for better commit message
